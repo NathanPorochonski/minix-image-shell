@@ -1,4 +1,4 @@
-# minix-image-shell-
+# minix-image-shell
 This is a shell program that allows the user to mount a Minix image file and display information about the super block, root directory, a specified data zone number,
 and a specified file name.
 
